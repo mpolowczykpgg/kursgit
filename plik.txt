@@ -1,4 +1,53 @@
+<<<<<<< HEAD
 yeah
 push
+branch_3yeah
+push
+branch_3yeah
+push
+branch_3yeah
+push
+branch_3yeah
+push
+branch_3yeah
+push
 branch_3
+<<<<<<< HEAD
 branch_4x
+=======
+<<<<<<< HEAD
+branch_3.5
+branch_4
+może jakiś konflikt w końcu?
+=======
+ble ble ble
+yeah
+nowy
+nowy 2
+nowy 3
+bleeeeeeeeeeeeeeeee
+=======
+<<<<<<< HEAD
+=======
+branch_4
+ble ble ble
+>>>>>>> branch_3
+zenek
+pppppppp
+yeah
+a tu jeszcze jeden
+slave
+<<<<<<< HEAD
+nowy 2
+nowy 3
+bleeeeeeeeeeeeeeeee
+zenek
+pppppppp
+yeah
+a tu jeszcze jeden
+slave
+>>>>>>> branch7
+=======
+>>>>>>> branch_4
+>>>>>>> branch_3
+>>>>>>> dfa4631c9edb55f2263191b90af717eeed295c6a
