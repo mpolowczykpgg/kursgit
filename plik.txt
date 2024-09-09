@@ -11,3 +11,13 @@ push
 branch_3yeah
 push
 branch_3
+<<<<<<< HEAD
+=======
+branch_4
+ble ble ble
+zenek
+pppppppp
+yeah
+a tu jeszcze jeden
+slave
+>>>>>>> branch_4
