@@ -1,6 +1,28 @@
+<<<<<<< HEAD
 yeah
 push
 branch_3
 branch_3.5
 branch_4
 może jakiś konflikt w końcu?
+=======
+ble ble ble
+yeah
+nowy
+nowy 2
+nowy 3
+bleeeeeeeeeeeeeeeee
+zenek
+pppppppp
+yeah
+a tu jeszcze jeden
+slave
+nowy 2
+nowy 3
+bleeeeeeeeeeeeeeeee
+zenek
+pppppppp
+yeah
+a tu jeszcze jeden
+slave
+>>>>>>> branch7
